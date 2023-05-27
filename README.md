@@ -19,7 +19,7 @@
   #### 1）订阅了apple music；
   #### 2）账号为其他人共享账号；
   #### 3）订阅了其他apple相关的订阅项；
-  ###更新地区方法：
+  ### 更新地区方法：
   ![img_v2_9c500f7b-f2c9-442b-a30c-fd9745bf81dg](https://github.com/hkHowToGetACard/-Register-for-Futunn/assets/134081855/b4dc3c9e-d5e9-4bec-990d-5b7eb1dfdbf6)
   
 ### b、有订阅或者无法直接修改地区的：
