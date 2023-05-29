@@ -1,27 +1,10 @@
 # -Register-for-Futunn
 # 牛牛下架后如何下载安装？
-## 安卓
-
-### 1、如果商店可以搜到，直接通过商店下载、更新；
-
-### 2、如果上无法搜索，安卓可以直接通过apk的安装包安装，安装包下载地址：https://software-file-1251001049.cos.ap-guangzhou.myqcloud.com/niuniu_13.15.10908_400_mainland.apk
-
 ## 苹果
 
 ### 1、曾经下载过富途牛牛，但是卸载了的用户：
 
-![image](https://github.com/hkHowToGetACard/-Register-for-Futunn/assets/134081855/b27b8975-17f5-4bcc-8102-5a6f5ebaa02f)
 
-### 2、没有下载过富途牛牛，但是Apple ID为大陆ID的：
-
-### a、如果没有以下情况的，可直接更改ID的地区为香港：
-
-  #### 1）订阅了apple music；
-  #### 2）账号为其他人共享账号；
-  #### 3）订阅了其他apple相关的订阅项；
-  ### 更新地区方法：
-  ![img_v2_9c500f7b-f2c9-442b-a30c-fd9745bf81dg](https://github.com/hkHowToGetACard/-Register-for-Futunn/assets/134081855/b4dc3c9e-d5e9-4bec-990d-5b7eb1dfdbf6)
-  
 ### b、有订阅或者无法直接修改地区的：
   #### 打开如下链接，获取美区ID，注：请勿登录iCloud，锁机不负责！请勿登录iCloud，锁机不负责！请勿登录iCloud，锁机不负责！
   https://apple.laogoubi.net/s/b8aca0af788505c53cbd3ad146e4bdc1
