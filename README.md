@@ -11,9 +11,7 @@
   ### 注：最好用浏览器打开，如果用微信打开的，可按照如下操作查看账号密码：
   ![img_v2_7f4a0964-8d5e-4d61-9c55-605ef28ffe2g](https://github.com/hkHowToGetACard/-Register-for-Futunn/assets/134081855/defbefbd-1913-41bb-a563-c9ffb1492e64)
   #### 账号密码使用方法：
-  ![img_v2_4d179dbe-28d5-4529-9079-7ee633a8f8bg](https://github.com/hkHowToGetACard/-Register-for-Futunn/assets/134081855/6bfa00dc-c176-43a3-bc26-8253ac78e361)
-![img_v2_e73cfaa8-e6e3-4cea-b6eb-c8bf14cefd4g](https://github.com/hkHowToGetACard/-Register-for-Futunn/assets/134081855/a6d4dde6-be54-4b29-9bce-9c8f5dfcc7b1)
-![img_v2_b9203123-9e71-49e9-a2d8-98f85dac521g](https://github.com/hkHowToGetACard/-Register-for-Futunn/assets/134081855/675f0f97-a27b-478a-8259-67276ff64488)
+![image](https://github.com/hkHowToGetACard/-Register-for-Futunn/assets/134081855/63a9ec18-5903-47c3-874c-657684905f35)
   #### 视频教程：
   https://user-images.githubusercontent.com/134081855/239573594-71fcd561-f888-45f5-9feb-1f37c3e0e214.mp4
   
