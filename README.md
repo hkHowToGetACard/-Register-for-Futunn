@@ -9,7 +9,8 @@
   #### 打开如下链接，获取美区ID，注：请勿登录iCloud，锁机不负责！请勿登录iCloud，锁机不负责！请勿登录iCloud，锁机不负责！
   https://apple.laogoubi.net/s/b8aca0af788505c53cbd3ad146e4bdc1
   #### 防止链接失效，提供备用链接：
-  https://aunlock.laogoubi.net/s/1ddec87e5432ed7d6fb11056bc53fd6a
+  https://aunlock.laogoubi.net/s/1ddec87e5432ed7d6fb11056bc53fd6a  
+  
   https://apple.laogoubi.net/s/c7d1e73290a646f2513f6f0b75843b0b
   
   ### 注：最好用浏览器打开，如果用微信打开的，可按照如下操作查看账号密码：
