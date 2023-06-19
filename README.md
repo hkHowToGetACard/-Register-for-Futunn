@@ -6,7 +6,8 @@
 
 
 ### b、有订阅或者无法直接修改地区的：
-  #### 打开如下链接，获取美区ID，注：请勿登录iCloud，锁机不负责！请勿登录iCloud，锁机不负责！请勿登录iCloud，锁机不负责！
+  #### 打开如下链接，获取美区ID，三十分钟有效，
+  注：请勿登录iCloud，锁机不负责！请勿登录iCloud，锁机不负责！请勿登录iCloud，锁机不负责！
   https://aunlock.laogoubi.net/s/1ddec87e5432ed7d6fb11056bc53fd6a
   #### 防止链接失效，提供备用链接：
    
